@@ -1,2 +1,7 @@
-# 3D-model_image_processing_2
-This project gives the 3d view of simple object, given its front,side and top views.
+1.THIS PROJECT TAKES THE FRONT VIEW, TOP VIEW AND SIDE VIEW OF A SIMPLE OBJECT TO GENERATE ITS 3-D VIEW
+
+2."test_fv.jpg, test_sv.jpg, test_tv.jpg" ARE FRONT, SIDE AND TOP VIEWS OF SIMPLE OBJECT RESPECTIVELY.
+
+3.GO THROUGH "CODE.txt" FILE FOR VIEWING CODE
+
+4.RUN THE PROJECT ON "testimage.cpp" file.
